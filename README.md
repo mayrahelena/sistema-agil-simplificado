@@ -76,10 +76,5 @@ Projeto acadêmico desenvolvido por Mayra Helena da Silva Oliveira, estudante de
 
 ---
 
-## 📸 Imagens do Sistema (Opcional)
-Adicione prints da interface aqui (como o cadastro de produto e a venda no caixa).
-
----
-
 ## 📝 Licença
 Este projeto é de uso livre para fins de estudo e demonstração em portfólio.
